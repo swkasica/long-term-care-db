@@ -5,6 +5,10 @@ passages from the story "Kept in the Dark" (www.oregonlive.com/senior-care), pub
 
 Below are passages from the story and links to the code that substantiates them. The [data](https://github.com/TheOregonian/long-term-care-db/blob/master/data), [notebooks](https://github.com/TheOregonian/long-term-care-db/blob/master/notebooks) and [scraper](https://github.com/TheOregonian/long-term-care-db/blob/master/scraper) folders have their own README files, if you'd like more details.
 
+## Steve's Notes
+
+![workflow](mung-3-25-scrape-workflow.jpg)
+
 ## Analyses
 
 - __Passage__: "...state officials have excluded nearly 8,000 substantiated complaints of 
